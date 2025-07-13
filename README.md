@@ -74,6 +74,52 @@ bonus)
 
 ### 2. Data Description
 
+Palmora Group Data
+
+| Column Name | Description        | Data Type |
+| ----------- | ------------------ | --------- |
+| `Name`      | Employee Names     | Text      |
+| `Gender`    | Employee sex       | Text      |
+| `Department`| Employee Team      | Text      |
+| `Salary`    | Employee pay       | Numeric   |
+| `Location`  | Branch location    | Text      |
+| `Rating`    |Employee Performance| Text      |
+ 
+
+Bonus Rules
+
+| Column Name | Description        | Data Type |
+| ----------- | ------------------ | --------- |
+| `Department`| Employee team      | Text      |
+| `Very poor` | Employee Bonus     | Numeric   |
+| `Poor`      | Employee Bonus     | Numeric   |
+| `Average`   | Employee Bonus     | Numeric   |
+| `Good`      | Employee Bonus     | Numeric   |
+| `Very Good` |Employee Bonus      | Numeric   |
+
+### 3. Data Cleaning
+
+● Generally, there are two genders in the organization. However, some employees 
+refused to disclose their gender. To achieve this i assigned "Not Specefied" to the Null values 
+in the gender column.
+
+● Some employees are without a salary because they are no longer with the company. 
+You will need to take those employees out. To achive this i had to transform the dataset and remove the Null values in the name column.
+
+● Lastly, some departments are indicated as “NULL”. These departments would also 
+need to be taken out. i also taked out department with null use same process above.
+
+
+### 4. Data Analysis Steps
+
+1. What is the gender distribution in the organization? Distil to regions and 
+departments: Kaduna has the highest male representation (172), while the female count also peaks there at 151. Abuja shows a perfect gender balance equal numbers of male and female names. Lagos has nearly equal gender distribution, with a slight edge to males
+
+2.
+
+
+
+
 
 
 
