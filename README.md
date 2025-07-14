@@ -150,7 +150,7 @@ IF(
 
 ```
 Note that when out put is “+” the salary favour men while “-“ indicate female
-Click to view table ================================================
+Click to view table check from the palmoria document.
 
 Viewing from the table it show that from each regions male were more favoured than female this signify gender inequality especially from Abuja.
 
@@ -178,7 +178,8 @@ Lastly Sale department with 13% more than the female.
 NO, palmoria does not meet this requirement. From the chart most of the employee salary fall between $20K to $80K.
 
 5. - Amount to be paid as a bonus to individual employees: $2.03Million
-    - total amount to be paid to individual employees salary inclusive of bonus: ===========================================================
+    - total amount to be paid to individual employees salary inclusive of bonus: [Palmoria Group Bonus.xlsx](https://github.com/user-attachments/files/21209070/Palmoria.Group.Bonus.xlsx)
+
     - Total amount to be paid out per region and company wide: $66.56Million
 
 
