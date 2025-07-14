@@ -183,6 +183,11 @@ NO, palmoria does not meet this requirement. From the chart most of the employee
     - Total amount to be paid out per region and company wide: $66.56Million
 
 
+### 5. Dashboard
+
+<img width="888" height="493" alt="final" src="https://github.com/user-attachments/assets/1539a9f6-6694-4716-bf0b-5364bc2301c8" />
+
+
 
 
 
