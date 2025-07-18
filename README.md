@@ -188,6 +188,10 @@ NO, palmoria does not meet this requirement. From the chart most of the employee
 <img width="888" height="493" alt="final" src="https://github.com/user-attachments/assets/1539a9f6-6694-4716-bf0b-5364bc2301c8" />
 
 
+## LINK TO SECOND PROJECT 
+https://github.com/emmydynamics/Kultra-Mega-Stores-Inventory-EDA-with-SQL
+
+
 
 
 
